@@ -1,0 +1,6 @@
+Quick Sort Pivot First: 1.3670000000
+Quick Sort Pivot Last: 1.4340000000
+Insertion Sort: 3.2000000000
+Merge Sort: 0.0090000000
+Counting Sort: 0.0010000000
+Decision Tree Sort: 5.0780000000

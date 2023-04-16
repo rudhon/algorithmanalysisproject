@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681567166 source:c:\users\talha\onedrive\masaüstü\algorithmanalysisproject\q3\comparing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

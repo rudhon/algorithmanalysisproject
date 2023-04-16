@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681140166 source:c:\users\talha\onedrive\masaüstü\algorthmanalysisproject\q1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1681475143 source:c:\users\talha\onedrive\masaüstü\algorithmanalysisproject\insertionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
